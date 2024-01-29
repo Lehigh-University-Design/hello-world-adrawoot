@@ -1,0 +1,33 @@
+* {
+    
+    body {
+        margin: 50px;
+        text-align: left;
+        background-color: rgb(255, 250, 236);
+    }
+
+    h1 {
+        color:rgb(33, 42, 99);
+        text-align: center;
+        font-family:'Quicksand', sans-serif;
+    }
+
+    img {
+        float: left;
+        margin-right: 50px;
+    }
+
+    p {
+        margin-top: 31px;
+        text-align: left;
+        font-family:'Short Stack';
+        font-size: 19px;
+        line-height: 125%;
+    }
+
+    ul{
+        margin-top: 30px;
+        font-family:'Podkova';
+        font-size: 17px; 
+    }
+}
