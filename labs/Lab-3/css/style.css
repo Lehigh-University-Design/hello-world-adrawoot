@@ -218,3 +218,35 @@ h4 {
     }
 
 }
+
+.challenge-post{
+    text-align: center;
+    border: 1px solid var(--dark-color);
+    padding: 0 1em;
+    margin: 1em;
+    overflow: hidden;
+
+}
+
+.masthead {
+    border: 1px solid var(--dark-color);  
+    margin: 1em; 
+}
+
+.side-nav {
+    width: calc(100/3%-2em);
+    aspect-ratio: 1;
+    float: left;
+    padding: 1rem;
+    border: 1px solid var(--dark-color); 
+    margin: 1em;
+}
+
+.article {
+    width: calc((100%/3)*2-2em);
+    margin: 1em;
+    padding: 1rem;
+    aspect-ratio: 1;
+    float: right;
+    border: 1px solid var(--dark-color);  
+}
